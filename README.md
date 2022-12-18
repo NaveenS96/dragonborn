@@ -35,7 +35,7 @@
     - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
-- [Final Checklist for Dragonborn - Anniversary Edition Profile](#final-checklist-for-septimus---anniversary-edition-profile)
+- [Final Checklist for Dragonborn](#final-checklist-for-dragonborn)
 - [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
