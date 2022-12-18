@@ -17,10 +17,9 @@
 # Installation
 
 - [Introduction](#introduction)
-  - [Minimum Specs](#minimum-specs)
-  - [Gameplay](#gameplay)
-  - [Community](#community)
   - [List Contents](#list-contents)
+  - [Minimum Specs](#minimum-specs)
+  - [Community](#community)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -44,24 +43,22 @@
 
 # Introduction
 
-"I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Dragonborn Signus
+"So... a Dragonborn appears, at this moment in the turning of the age." - Arngeir
 
-Dragonborn is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
+Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
 
-### Minimum Specs
-Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
-
-### Gameplay
-
-Dragonborn seeks to modify Skyrim in the least intrusive way to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
-
-### Community
-
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Dragonborn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
-
-### List Contents
+## List Contents
 
 You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
+
+You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
+
+## Minimum Specs
+Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
+
+## Community
+
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Dragonborn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 # Installation
 
