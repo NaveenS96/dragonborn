@@ -60,6 +60,10 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Dragonborn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
+## Skyrim: Anniversary Edition (AE)
+
+This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
+
 # Installation
 
 Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
@@ -71,12 +75,6 @@ These steps are only needed if you install the Modlist for the first time. If yo
 ### Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
-
-### Installing Microsoft .NET 5.0
-
-Please ensure you have .NET v5.0 installed. The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
-
-![Dot Net](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/microsoft-net-5-0-installation.png)
 
 ### Steam Library
 
@@ -95,10 +93,6 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
-
-### Skyrim: Anniversary Edition (AE)
-
-This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
 
 ## Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
