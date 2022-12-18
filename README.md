@@ -145,14 +145,6 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-### Stock Game
-
-Unlike regular Skyrim installation or some other Wabbajack Lists, Dragonborn comes with the **Stock Game Feature**.
-
-Basically, the **Stock Game Feature** is a copy of a Skyrim installation located within your installation folder, cleaned and with everything required in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after you install Dragonborn using Wabbajack, you need not to move anything to your regular Skyrim installation folder.
-
-There are more steps though, so please keep following the next steps to setup the game optimally.
-
 ### Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
