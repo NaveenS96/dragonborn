@@ -191,6 +191,4 @@ For issues that aren't yet [known](HELP.md), you can provide details in the [Dra
 Finally, free feel to hop on the Dragonborn Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Dragonborn Team
-+ Webmetz - Author of the Relics of Hyrule addon and awesome modder!
-+ [Ghastly](https://rr.noordstar.me/756fd6eb) - Patching wizard and overall cool guy
-+ Rsrogers4 - Tons of documentation help!
++ Guitarninja :)
