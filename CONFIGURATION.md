@@ -17,7 +17,6 @@
 # Configuration
 
 - [Optional Tweaks](#optional-tweaks)
-- [Optional Content](#optional-tweaks)
   - [Widescreen](#widescreen)
   - [Character Presets](#character-presets)
 - [Mod Configuration](#mod-configuration)
