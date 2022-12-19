@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.0.0
+
+Full release is out on the nexus [here](https://www.nexusmods.com/skyrimspecialedition/mods/80877) and on the Wabbajack UI under unofficial lists. Enjoy!
+
+### Added
++ Ancient Knowledge - Automaton Summoning
++ Collect Bodies and Bear Traps
++ Wyrmstooth - Mysticism Consistency Patch
+
 ## Version 1.0.0-BETA3
 ### Added
 + Immersive Dungeons
