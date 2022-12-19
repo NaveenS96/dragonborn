@@ -16,5 +16,5 @@
 
 # Changelog
 
-## Version 1.0.0-BETA1 [Unreleased]
+## Version 1.0.0-BETA1
 Brand new :)
