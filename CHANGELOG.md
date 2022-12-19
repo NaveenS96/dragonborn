@@ -16,7 +16,14 @@
 
 # Changelog
 
-## Version 1.0.0-BETA2 [Unreleased]
+## Version 1.0.0-BETA3
+### Added
++ Immersive Dungeons
++ EasierRiders Dungeons
+### Removed
++ Enhanced Landscapes (Too many conflicts)
+
+## Version 1.0.0-BETA2
 ### Added
 + Expressive Facegen Morphs
 + Expressive Facial Animations (Male and Female)
