@@ -16,6 +16,19 @@
 
 # Changelog
 
+## Version 1.0.1
+
+### Added
++ A Lovely Letter Alternate Routes
++ Buyable Golden Claw
++ Finding Derkeethus
++ Finding Susanna Alive
++ Finding Helgi... and Laelette
++ Finding Velehk Sain
++ Missing in Action Delayed
+### Updated
++ Wyrmstooth - Mysticism Consistency Patch (From Nexus)
+
 ## Version 1.0.0
 
 Full release is out on the nexus [here](https://www.nexusmods.com/skyrimspecialedition/mods/80877) and on the Wabbajack UI under unofficial lists. Enjoy!
