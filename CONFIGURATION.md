@@ -19,8 +19,6 @@
 - [Optional Tweaks](#optional-tweaks)
   - [Widescreen](#widescreen)
   - [Character Presets](#character-presets)
-- [Mod Configuration](#mod-configuration)
-  - [MCM Menus](#mcm-menus)
 - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
 
@@ -52,12 +50,6 @@ Dragonborn\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 
 ### General Rules
 When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a Dragonborn patch for them, load that after the mod's esp and above all other Dragonborn patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
-
-## Mod Configuration
-
-### MCM Menus
-
-All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
 ## ENB and Reshade Presets
 
