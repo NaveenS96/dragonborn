@@ -48,9 +48,6 @@ You can select this mod, right-click it, and then select "Open in Explorer" to s
 Dragonborn\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 ```
 
-### General Rules
-When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a Dragonborn patch for them, load that after the mod's esp and above all other Dragonborn patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
-
 ## ENB and Reshade Presets
 
 > :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
