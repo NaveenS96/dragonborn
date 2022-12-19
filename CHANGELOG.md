@@ -16,7 +16,9 @@
 
 # Changelog
 
-## Version 1.0.1 [Unreleased]
+## Version 1.0.1
+
+Adding some last minute quest changes I forgot about :)
 
 ### Added
 + A Lovely Letter Alternate Routes
@@ -26,6 +28,9 @@
 + Finding Helgi... and Laelette
 + Finding Velehk Sain
 + Missing in Action Delayed
++ Sit on Stuff
++ Sweeping Organizes Stuff
+
 ### Updated
 + Wyrmstooth - Mysticism Consistency Patch (From Nexus)
 
