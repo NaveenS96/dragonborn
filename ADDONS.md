@@ -16,3 +16,5 @@
 
 # Addons
 The following list is a set of addons which can be added to Dragonborn to add certain large content pieces. Note, support for addons is provided by the creator of that addon and not by Dragonborn support. Should something go wrong, please use the appropriate channel for the addon. Install instructions are provided by the addon page listed and provide a guide for installing the addon.
+
+There are no addons yet. Come back later :(
