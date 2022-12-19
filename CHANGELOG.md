@@ -16,5 +16,20 @@
 
 # Changelog
 
+## Version 1.0.0-BETA2 [Unreleased]
+### Added
++ Expressive Facegen Morphs
++ Expressive Facial Animations (Male and Female)
++ Movement Behavior Overhaul
++ Toggle Compass Hotkey
++ Nordic Carved Clipping Fix
++ Morehud + Inventory Edition
+
+### Updated
++ Animation Motion Revolution
+
+### Fixed
++ NPCS No Longer Ice-skate walk
+
 ## Version 1.0.0-BETA1
 Brand new :)
