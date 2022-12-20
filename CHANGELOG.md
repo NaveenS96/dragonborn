@@ -16,6 +16,19 @@
 
 # Changelog
 
+## Version 1.0.2
+
+### Added
++ NARC Remade
++ No Sun Damage in Soul Cairn
++ Simple Werewolf Howls Menu
++ Favorite Misc Items
++ Sensible Sleepwalking
++ Scion - Vampiric Sunscreen Patch (Optional)
+
+### Updated
++ Dragonborn - Realistic Water Two Patch
+
 ## Version 1.0.1
 
 Adding some last minute quest changes I forgot about :)
