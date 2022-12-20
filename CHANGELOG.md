@@ -16,6 +16,26 @@
 
 # Changelog
 
+## Version 1.0.5
+### Added
++ Craftable Blood Potions
+### Fixed
++ Mysticism + Adamant Load order Issue (oops)
+
+## Version 1.0.4
+### Added
++ Ruins Clutter Improved + Fixes Patch
++ Hvergelmir's Aesthetics - Beards
+### Removed
++ Movement Behavior Overhaul
+### Fixed
++ Weapon draw after sprinting was bugged
+
+## Version 1.0.3
+### Added
++ Glorious Doors of Skyrim
++ Rustic Clutter Collection
+
 ## Version 1.0.2
 
 ### Added
