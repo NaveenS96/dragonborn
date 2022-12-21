@@ -25,6 +25,7 @@ On your journey through the Dragonborn version of Skyrim, you will find a perfor
 This guide highlights major mods included in Dragonborn in the following categories:
 
 - [Hotkeys](#hotkeys)
+- [Optional Quick Start](#optional-quick-start)
 
 Icons in this guide:
 
@@ -67,3 +68,7 @@ Icons in this guide:
 - <kbd>F10</kbd> - Toggles ENB on/off
 
 - <kbd>F11</kbd> - Toggles ENB configuration, provided you are using ENB
+
+## Optional Quick Start
+
+Dragonborn includes [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to skip the traditional cart ride if you want to. It places you at the end of Helgen keep with some starting equipment.
