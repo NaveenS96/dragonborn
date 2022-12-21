@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 1.0.6
+### Added
++ Bow of Shadows - Reduced Cut
++ Dust Effects by HHaleyy
++ Rugnarok
++ Peltapalooza
++ Rustic Cooking
++ Rustic Windows
++ JS Dragon Claws SE
++ JS Rumpled Rugs
+
 ## Version 1.0.5
 ### Added
 + Craftable Blood Potions
