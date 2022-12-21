@@ -25,6 +25,9 @@ On your journey through the Dragonborn version of Skyrim, you will find a perfor
 This guide highlights major mods included in Dragonborn in the following categories:
 
 - [Hotkeys](#hotkeys)
+- [Optional Quick Start](#optional-quick-start)
+- [Gampeplay](#gameplay)
+- [User Interface and Camera](#user-interface-and-camera)
 
 Icons in this guide:
 
@@ -67,3 +70,67 @@ Icons in this guide:
 - <kbd>F10</kbd> - Toggles ENB on/off
 
 - <kbd>F11</kbd> - Toggles ENB configuration, provided you are using ENB
+
+## Optional Quick Start
+
+Dragonborn includes [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to skip the traditional cart ride and begin your Dragonborn journey at the end of Helgen Keep. The mod also gives you some starting equipment.
+
+## Gameplay
+
+Dragonborn is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
+
+- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
+
+  > :ledger: [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) automatically grants the following perks to all players for free: Dual Casting (Alteration, Conjuration, Destruction, Illusion, and Restoration), Arcane Blacksmith, Critical Charge, Greater Critical Charge, Power Bash, Eagle Eye, Rune Master, Summoner, Physician, Intimidation, and Bribery
+  
+  > :video_game: Tempering is based on your smithing perks, and not your smithing skill level. Each perk from Craftsman to Forgemaster allows you to temper an item by one additional tier
+
+- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities including replacing powers with better passive abilities
+
+- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy
+
+- [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) - An overhaul of howenemies are leveled in encounters, making combat more engaging
+
+- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - A lightweight combat enhancement which makes combat more engaging
+
+- [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill called Security and adds a new perk tree for Hand to Hand combat
+
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - Rebalance and rework of religion
+
+- [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - Rebalances and improves Vampires including changes that make both Stage 1 and Stage 4 vampirism desirable
+
+- [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - Rebalance and content addon for werewolves which introduces new perks and abilities
+
+- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) - A complete rebalance of all standing stones
+
+- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells
+
+- [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - An enchanting overhaul which fixes some major issues with enchanting balance
+
+In addition to SimonRim, this list includes:
+
+- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
+
+- [Arachnomancy - A Spider Scrolls Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - A complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones
+
+- [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) - An overhaul of how encounters work in the Bruma region, inspired by Arena's handling of encounter zones. Enemies will be leveled similar to Solstheimn enemies on Arena.
+
+## User Interface and Camera
+
+Dragonborn includes a minimalistic and modern UI, featuring:
+
+- [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
+
+- [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
+
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) - Elegant, PC-friendly interface
+
+- [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
+
+  > :ledger: By default, the [Octavian's](https://www.nexusmods.com/skyrimspecialedition/mods/43927) preset is included but you're free to try another preset
+
+- [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - Overhauls the third person gameplay similar to modern action RPGs. Move and attack in any direction
+
+  > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
+
+- [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
