@@ -20,6 +20,7 @@
 
 ### Added
 + Nordic Faces - Immersive Character Overhaul
++ Iconic Statues
 
 ### Updated
 + Scrambled Bugs Config JSON
