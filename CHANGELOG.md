@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.0.8
+
+### Updated
++ Updated to latest SKSE and removed Stock Game
+
 ## Version 1.0.7
 
 ### Added
