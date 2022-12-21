@@ -16,6 +16,13 @@
 
 # Changelog
 
+## Version 1.0.7
+### Added
++ Difficulty Balance
+
+### Updated
++ Scrambled Bugs Config JSON
+
 ## Version 1.0.6
 ### Added
 + Bow of Shadows - Reduced Cut
