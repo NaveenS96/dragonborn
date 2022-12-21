@@ -31,7 +31,6 @@
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
 - [Final Checklist for Dragonborn](#final-checklist-for-dragonborn)
