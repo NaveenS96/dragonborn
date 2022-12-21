@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.0.7 [Unreleased]
+## Version 1.0.7
 
 ### Added
 + Nordic Faces - Immersive Character Overhaul
