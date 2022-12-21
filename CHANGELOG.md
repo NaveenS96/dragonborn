@@ -16,9 +16,7 @@
 
 # Changelog
 
-## Version 1.0.7
-### Added
-+ Difficulty Balance
+## Version 1.0.7 [Unreleased]
 
 ### Updated
 + Scrambled Bugs Config JSON
