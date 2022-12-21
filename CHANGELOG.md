@@ -18,8 +18,13 @@
 
 ## Version 1.0.7 [Unreleased]
 
+### Added
++ Nordic Faces - Immersive Character Overhaul
+
 ### Updated
 + Scrambled Bugs Config JSON
++ Rebuilt all facegen
++ Rebuilt all terrain LOD
 
 ## Version 1.0.6
 ### Added
