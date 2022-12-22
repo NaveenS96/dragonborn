@@ -28,6 +28,7 @@ This guide highlights major mods included in Dragonborn in the following categor
 - [Optional Quick Start](#optional-quick-start)
 - [Gampeplay](#gameplay)
 - [User Interface and Camera](#user-interface-and-camera)
+- 
 
 Icons in this guide:
 
@@ -98,6 +99,7 @@ Dragonborn is built around the [Simon Magus (SimonRim)](https://www.nexusmods.co
 - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - Rebalance and rework of religion
 
 - [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - Rebalances and improves Vampires including changes that make both Stage 1 and Stage 4 vampirism desirable
+  - :ledger: Optional mod [Scion - Vampiric Sunscreen Condition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42212) can be turned on under the Optional Mods separator in MO2 to prevent Weaknus to Sunlight when wearing headgear
 
 - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - Rebalance and content addon for werewolves which introduces new perks and abilities
 
@@ -114,6 +116,10 @@ In addition to SimonRim, this list includes:
 - [Arachnomancy - A Spider Scrolls Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - A complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones
 
 - [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) - An overhaul of how encounters work in the Bruma region, inspired by Arena's handling of encounter zones. Enemies will be leveled similar to Solstheimn enemies on Arena.
+
+- [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) - The SKSE version of the Survival Mode Improved mod, which balances the game's survival mode and the needs mechanic.
+
+- [Simple Scroll Transcribing](https://www.nexusmods.com/skyrimspecialedition/mods/73450) - Adds scroll transcription stations to court wizard rooms and the College's Arcaneum.
 
 ## User Interface and Camera
 
@@ -134,3 +140,4 @@ Dragonborn includes a minimalistic and modern UI, featuring:
   > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
+
